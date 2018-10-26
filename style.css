@@ -1,0 +1,37 @@
+body{
+	background-color: rgb(200, 240, 240);
+	color: rgb(50, 50, 50);
+	font-family: Courier;
+	font-size: 17px;
+	width: 1000px;
+	margin: 0px auto;
+	text-align: center;
+	list-style: inside;
+}
+h1{
+	font-family: Courier
+}
+a{
+	text-decoration: none;
+	color: #6B72E1;
+	font-weight: bold;
+}
+a:hover {
+	color: black
+}
+.container{
+	margin: 80px;
+	padding: 40px;
+	background-color: rgb(280, 240, 280);
+	border-radius: 50px;
+}
+.card-white{
+	background-color: rgb(295, 255, 295);
+	border-radius: 20px;
+	box-shadow: rgba(0, 0, 0, 0.8);
+	padding: 40px;
+	margin: 30px;
+}
+.img-circle{
+	border-radius: 50%
+}
